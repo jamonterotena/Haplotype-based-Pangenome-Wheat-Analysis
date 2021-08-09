@@ -6,6 +6,6 @@
 
 - demonstration_rdma_hbpa.pdf is an overview of the outcome from the last script
 
-- table_chr_assembly_length.txt contains the chromosome length for all chromosomes in the 15 wheat assemblies
+- table_assembly_chr_length.txt contains the chromosome length for all chromosomes in the 15 wheat assemblies
 
 - alignment_props_supplementary_hbpa.r was used for the master thesis to generate data on alignment properties from all rds files obtained by Brinton and colleagues and to apply a statistical analysis to prove the effects of using scaffolds as query in pairwise comparisons

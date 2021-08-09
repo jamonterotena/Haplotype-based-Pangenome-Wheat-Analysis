@@ -1,4 +1,4 @@
-- 'functions_hbpa.r' is required by every script in this repository. Most functions were based on those by Brinton et al (2020), of which some were modified for the script purpose or aesthetically, meanwhile some functions are completely original
+- 'functions_hbpa.r' is required by every script in this repository
 
 - 'template_hbpa.r' can be used to personalize parameters and source the script. All the information will come up on the console and in plots
 

@@ -19,3 +19,4 @@ These R scripts enable extracting useful quality properties from the genome asse
 - 'alignment_props_supplementary_hbpa.r' was used for the master thesis to generate data on alignment properties from all rds files obtained by Brinton and colleagues and to apply a statistical analysis to prove the effects of using scaffolds as query in pairwise comparisons
 
 ## References
+Brinton, J., Ramirez-Gonzalez, R. H., Simmonds, J., Wingen, L., Orford, S., Griffiths, S., 10 Wheat Genome Project, Haberer, G., Spannagl, M., Walkowiak, S., Pozniak, C., & Uauy, C. (2020). A haplotype-led approach to increase the precision of wheat breeding. Communications biology, 3(1), 712. https://doi.org/10.1038/s42003-020-01413-2

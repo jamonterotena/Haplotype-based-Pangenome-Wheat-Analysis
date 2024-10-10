@@ -6,6 +6,8 @@ Extension to the Crop Haplotypes website that "provides an interactive graphic v
 
 These R scripts enable extracting useful quality properties from the genome assemblies, such as the alignment density or alignment continuity. These can be useful for decision-making on the haplotype information shown on the website, since this only allows a maximum resolution of 1 Mbp and combined chromosome level assemblies, which are highly dense in alignments, with scaffold-level assemblies, that are prone to regions with low alignment density.
 
+## Code
+
 - 'functions_hbpa.r' is required by every script in this repository
 
 - 'template_hbpa.r' can be used to personalize parameters and source the script. All the information will come up on the console and in plots
